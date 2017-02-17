@@ -1,0 +1,23 @@
+{
+  "name": "leipzijs",
+  "version": "1.0.0",
+  "description": "A port of https://github.com/ctford/leipzig to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danigb/leipzijs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danigb/leipzijs/issues"
+  },
+  "homepage": "https://github.com/danigb/leipzijs#readme",
+  "devDependencies": {
+    "tone": "^0.9.0"
+  }
+}
