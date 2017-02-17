@@ -1,5 +1,5 @@
 {
-  "name": "leipzijs",
+  "name": "leip",
   "version": "1.0.0",
   "description": "A port of https://github.com/ctford/leipzig to javascript",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danigb/leipzijs.git"
+    "url": "git+https://github.com/danigb/leip.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danigb/leipzijs/issues"
+    "url": "https://github.com/danigb/leip/issues"
   },
-  "homepage": "https://github.com/danigb/leipzijs#readme",
+  "homepage": "https://github.com/danigb/leip#readme",
   "devDependencies": {
     "tone": "^0.9.0"
   }
